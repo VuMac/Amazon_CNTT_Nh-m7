@@ -25,10 +25,7 @@
      	<input type="password"  name="password">
      	<button type="submit">Sign-In</button>
           <div class="text-info">
-		  <p>By continuing, you agree to Amazon's <a href="">Conditions of Use</a> and <a href="">Privacy Notice</a>.</p>
-		  <div class="text-help">
-		       <i class="fas fa-caret-right"></i> <a href="">Need help?</a>
-		  </div>
+		
 		  </div>
 		   </div>
      </form>
