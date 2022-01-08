@@ -544,7 +544,11 @@ html{
 /* FOOTER */
 
 /* Hang */
-.container
-.order{
+.container{
+    height: 46px;
+}
 
+.orders li{
+    text-decoration: none;
+    display:inline-block;
 }
