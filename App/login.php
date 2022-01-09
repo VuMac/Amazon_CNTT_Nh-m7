@@ -13,7 +13,7 @@
 <body>
 <div class="container">
  <img src="../images//Screenshot 2022-01-07 203005.png" alt="">
-	<form action="login-conn.php" method="post">
+	<form action="./pass.php" method="post">
      	  <div class="row">
 		  <div class="text-signin">
 		  <h2>Sign-In</h2>
