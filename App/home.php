@@ -122,7 +122,7 @@ session_start();
    
    
    <!-- LEST SHOP -->
-   <h1>helloVu</h1>
+   
    <div class="my-container">
        <div class="my-row">
           <div class="box-img">
