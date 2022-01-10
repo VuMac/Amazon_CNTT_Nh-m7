@@ -4,7 +4,7 @@ $sname= "localhost";
 $unmae= "root";
 $password = "";
 
-$db_name = "log";
+$db_name = "loginamazon";
 
 $conn = mysqli_connect($sname, $unmae, $password, $db_name);
 
