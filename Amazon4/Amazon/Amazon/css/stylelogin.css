@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.div{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    
+}
+.div img{
+    width: 24%;
+    height: 79%;
+}
+.hehe{
+    margin-left: 42%;
+    max-width: 300px;
+    width: 300px;
+    border: solid;
+    padding: 14px 32px 32px 32px;
+}
+.haha{
+    padding:8px 0px ;
+}
+
+.hoho{
+    height:35px;
+    
+}
+.hoho input{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    padding-left: 8px
+
+}
+.haha button{
+    width: 100%;
+    height: 100%;
+    background-color: orange;
+}
+.ca{
+    text-decoration: none;
+    
+}
